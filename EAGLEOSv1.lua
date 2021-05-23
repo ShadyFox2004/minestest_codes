@@ -1,6 +1,9 @@
 --[[
 	Code For : E.A.G.L.E Sea Mantis
 	AUTHOR : shadyfox
+
+	DESCRIPTION : 
+		EAGLE V1 was an r2 fuel powered ship with varying radius. Here is the code that ran on it.  
 --]]
 
 --	CHANNELS
