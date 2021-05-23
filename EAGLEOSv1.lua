@@ -1,7 +1,7 @@
 --[[
 	Code For : E.A.G.L.E Sea Mantis
 	AUTHOR : shadyfox
--]]
+--]]
 
 --	CHANNELS
 --local converter = "convert"
@@ -56,19 +56,6 @@ local echo = function(text, lf)
 end
 
 local reset = function()
-  mem.database = {
-    home = {
-    },
-    root = {},
-    bin = {
-      cd = 0,
-      ls = 0,
-      echo = 0,
-      test = 0,
-    }
-  }
-  mem.cwd = mem.database
-  mem.pwd = ''
   echo("Welcome aboard captain,\n all primary systems... online. ")
 end
 
